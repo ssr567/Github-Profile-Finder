@@ -2,7 +2,7 @@
 
 This project is live at [Github-Profile-Finder](https://github-profile-finder-reactapp.netlify.app/).
 
-Application is built in JavaScript to search real Github users profiles
+Application is built using React, Context API, React Hooks to search real Github users profiles
 
 ## Description
 
